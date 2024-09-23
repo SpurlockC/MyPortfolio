@@ -16,7 +16,7 @@ function App() {
     <>
       <Header />
       <Container>
-        <AnimatePresence mode="wait"> {/* Replace exitBeforeEnter with mode="wait" */}
+        <AnimatePresence mode="wait">
           <Routes location={location} key={location.pathname}>
             <Route path="/" element={<Home />} />
             <Route path="/projects" element={<Projects />} />
