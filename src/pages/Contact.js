@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { Button, Col, Row, Form, ListGroup } from "react-bootstrap";
+import "../styles/Contact.css";
 
 const Contact = () => {
   const [validated, setValidated] = useState(false);

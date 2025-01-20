@@ -5,6 +5,7 @@ import project1 from "../images/project1.png";
 import project2 from "../images/project2.png";
 import project3 from "../images/project3.png";
 import Bowling_Avg_Calculator from "../images/Bowling_Avg_Calculator.png";
+import "../Styles/Projects.css";
 
 const Projects = () => {
   const projectList = [
