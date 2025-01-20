@@ -6,16 +6,21 @@ body {
     text-align: center;
 }
 
-h2 {
-    color: #fff;
-    font-size: 2rem;
-    margin: 2rem;
+.about {
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+    color: #000;
+    display: inline-block;
+    padding: 2rem;
     text-align: center;
 }
 
-p {
-    color: #aaa;
+.about h2 {
+    font-size: 2rem;
+    margin: 1rem;
+}
+
+.about p {
     font-size: 1.25rem;
-    margin: 2rem;
-    text-align: center;
+    margin: 1rem;
 }

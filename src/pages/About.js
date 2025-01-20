@@ -15,8 +15,6 @@ const About = () => {
       <motion.div style={{ scaleX }} className="progress-bar-animate" />
       <div className="about">
         <h2>About</h2>
-        <>
-          <article>
             <div>
               <p>
                 I'm a passionate front-end developer with an AS degree from Full
@@ -27,8 +25,6 @@ const About = () => {
                 code.
               </p>
             </div>
-          </article>
-        </>
       </div>
     </>
   );
