@@ -1,8 +1,9 @@
 import React from "react";
 import { Card } from "react-bootstrap";
 import { motion } from "framer-motion";
-import project1 from "../images/project1.jpg";
-import project2 from "../images/project2.jpg";
+import project1 from "../images/project1.png";
+import project2 from "../images/project2.png";
+import project3 from "../images/project3.png";
 import Bowling_Avg_Calculator from "../images/Bowling_Avg_Calculator.png";
 
 const Projects = () => {
@@ -25,17 +26,7 @@ const Projects = () => {
     {
       id: 4,
       name: "Gifts and Voucher Today",
-      imageUrl: project1,
-    },
-    {
-      id: 5,
-      name: "Productkart Studio",
-      imageUrl: project2,
-    },
-    {
-      id: 6,
-      name: "Library Management",
-      imageUrl: project2,
+      imageUrl: project3,
     },
   ];
 
