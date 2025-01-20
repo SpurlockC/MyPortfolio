@@ -1,16 +1,12 @@
 body {
     background: #797979;
-    color: #aaa;
+    color: #ffffff;
     font-size: 1.25rem;
     margin: 4rem;
     text-align: center;
 }
 
 .about {
-    border-radius: 1rem;
-    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
-    color: #000;
-    display: inline-block;
     padding: 2rem;
     text-align: center;
 }
