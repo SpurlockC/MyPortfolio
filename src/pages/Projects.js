@@ -10,12 +10,12 @@ const Projects = () => {
   const projectList = [
     {
       id: 1,
-      name: "Marketing site design & build",
+      name: "Calculator For Bowling Avg",
       imageUrl: Bowling_Avg_Calculator,
     },
     {
       id: 2,
-      name: "Glide Utilities",
+      name: "3 Card Component",
       imageUrl: project2,
     },
     {
