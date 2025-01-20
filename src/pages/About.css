@@ -5,3 +5,17 @@ body {
     margin: 4rem;
     text-align: center;
 }
+
+h2 {
+    color: #fff;
+    font-size: 2rem;
+    margin: 2rem;
+    text-align: center;
+}
+
+p {
+    color: #aaa;
+    font-size: 1.25rem;
+    margin: 2rem;
+    text-align: center;
+}
