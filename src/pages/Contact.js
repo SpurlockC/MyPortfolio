@@ -61,15 +61,15 @@ const Contact = () => {
                   <a href="https://www.youtube.com">Youtube </a>
                 </ListGroup.Item>
                 <ListGroup.Item>
-                  <a href="https://www.linkedin.com">Linkedin</a>
+                  <a href="https://www.linkedin.com/in/casey-spurlock-44b3a3278/">Linkedin</a>
                 </ListGroup.Item>
                 <ListGroup.Item>
-                  <a href="https://www.instagram.com">
+                  <a href="https://www.instagram.com/evil.skully/">
                     Instagram
                   </a>
                 </ListGroup.Item>
                 <ListGroup.Item>
-                  <a href="https://twitter.com">Twitter</a>
+                  <a href="https://x.com/EvilSkully1">Twitter</a>
                 </ListGroup.Item>
               </ListGroup>
             </p>
