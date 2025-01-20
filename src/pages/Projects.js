@@ -15,17 +15,17 @@ const Projects = () => {
     },
     {
       id: 2,
-      name: "3 Card Component",
+      name: "3-column-preview",
       imageUrl: project2,
     },
     {
       id: 3,
-      name: "Noton High Street Product",
+      name: "stats-preview",
       imageUrl: project1,
     },
     {
       id: 4,
-      name: "Gifts and Voucher Today",
+      name: "profile-card-component",
       imageUrl: project3,
     },
   ];
