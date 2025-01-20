@@ -1,7 +1,7 @@
 import React from "react";
 import { Card } from "react-bootstrap";
 import { motion } from "framer-motion";
-import "../Styles/Projects.css";
+import "./Projects.css";
 
 const Services = () => {
   const skillList = [

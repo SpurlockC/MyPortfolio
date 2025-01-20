@@ -1,6 +1,6 @@
 import React from "react";
 import { motion, useScroll, useSpring } from "framer-motion";
-import "../styles/About.css";
+import "./About.css";
 
 const About = () => {
   const { scrollYProgress } = useScroll();
