@@ -121,9 +121,16 @@ body {
   border-radius: 10px;
 }
 
-.card title {
+.card link {
+  color: #fff;
   font-size: 1.5rem;
-  font-weight: 600;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.card title {
+  font-size: 2.5rem;
+  font-weight: 700;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 1px;
