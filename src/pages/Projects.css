@@ -13,12 +13,12 @@ body {
     text-align: center;
 }
 
-.projects h2 {
+h2 {
     font-size: 2rem;
     margin: 1rem;
 }
 
-.projects p {
+p {
     font-size: 1.25rem;
     margin: 1rem;
 }
