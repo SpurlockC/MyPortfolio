@@ -34,7 +34,6 @@ body {
   background-color: #161d2f;
 }
 .home {
-  /* background-color: #210811; */
   display: flex;
   flex-direction: column;
   font-size: 4.5rem;
@@ -92,7 +91,7 @@ body {
 .services .wrapper {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 20px 0 20px 0;
+  padding: 1rem 2rem;
   display: grid;
   gap: 3rem;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -113,6 +112,16 @@ body {
 }
 .about {
   height: 93vh;
+  margin: 100px auto;
+  text-align: center;
+  color: #fff;
+  font-size: 1.5rem;
+  padding: 0px 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
 }
 .contact {
   height: 93vh;
