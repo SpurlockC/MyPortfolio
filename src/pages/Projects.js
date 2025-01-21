@@ -13,21 +13,25 @@ const Projects = () => {
       id: 1,
       name: "Calculator For Bowling Avg",
       imageUrl: Bowling_Avg_Calculator,
+      link: "bowlingavgcalculator.netlify.app",
     },
     {
       id: 2,
       name: "3-column-preview",
       imageUrl: project2,
+      link: "3-column-preview-csdesign.netlify.app",
     },
     {
       id: 3,
       name: "stats-preview",
       imageUrl: project1,
+      link: "stats-preview-csdesigns.netlify.app",
     },
     {
       id: 4,
       name: "profile-card-component",
       imageUrl: project3,
+      link: "profile-card-component-csdesigns.netlify.app",
     },
   ];
 
