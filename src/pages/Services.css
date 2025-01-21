@@ -5,3 +5,38 @@ body {
     margin: 4rem;
     text-align: center;
 }
+
+.services {
+    font-size: 1.25rem;
+    margin: 4rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+p {
+    font-size: 1.25rem;
+    margin: 1rem;
+}
+
+.services-list {
+    list-style-type: none;
+    padding: 0;
+}   
+
+.services-list li {
+    font-size: 1.25rem;
+    margin: 1rem;
+    padding: 1rem;
+}   
+
+.services-list li:hover {
+    background: #ffffff;
+    color: #797979;
+    cursor: pointer;
+}
