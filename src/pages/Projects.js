@@ -59,10 +59,12 @@ const Projects = () => {
               key={item.id}
             >
               <Card>
+                <Card.Link href={item.link} />
                 <Card.Img variant="top" src={item.imageUrl} />
                 <Card.Body>
                   <Card.Title>{item.name}</Card.Title>
                 </Card.Body>
+                
               </Card>
             </motion.div>
           );
