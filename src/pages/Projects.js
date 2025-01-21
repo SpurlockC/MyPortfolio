@@ -14,24 +14,28 @@ const Projects = () => {
       name: "Calculator For Bowling Avg",
       imageUrl: Bowling_Avg_Calculator,
       link: "https://bowlingavgcalculator.netlify.app/",
+      text: "This is a simple calculator to calculate bowling average made using HTML, CSS and JavaScript.",
     },
     {
       id: 2,
       name: "3-column-preview",
       imageUrl: project2,
       link: "https://3-column-preview-csdesign.netlify.app",
+      text: "This is a simple 3-column preview card component made using HTML and CSS.",
     },
     {
       id: 3,
       name: "stats-preview",
       imageUrl: project1,
       link: "https://stats-preview-csdesigns.netlify.app",
+      text: "This is a simple stats preview card component made using HTML and CSS.",
     },
     {
       id: 4,
       name: "profile-card-component",
       imageUrl: project3,
       link: "https://profile-card-component-csdesigns.netlify.app",
+      text: "This is a simple profile card component made using HTML and CSS.",
     },
   ];
 
@@ -59,10 +63,15 @@ const Projects = () => {
               key={item.id}
             >
               <Card>
-                <Card.Link href={item.link} />
+                
                 <Card.Img variant="top" src={item.imageUrl} />
                 <Card.Body>
                   <Card.Title>{item.name}</Card.Title>
+                  <Card.Text>
+                    This is a wider card with supporting text below as a
+                    natural lead-in to additional content. This content is a
+                    little bit longer.
+                  </Card.Text>
                 </Card.Body>
                 
               </Card>
